@@ -1,7 +1,7 @@
 import requests
 
 # Define the server URL
-SERVER_URL = 'http://your-server-ip:5000/update_model'
+SERVER_URL = 'https://tryingagainagain.azurewebsites.net/update_model'
 
 # Example client data (weights and biases)
 client_weights = [0.1, 0.2, 0.3]  # Example weights
